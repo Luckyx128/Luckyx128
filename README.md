@@ -5,8 +5,6 @@
   <a href="https://github.com/Luckyx128">
   </a>
 </div>
-
-#
 <div style="display:flex;aling-itens:center;gap:8px;"><br>
     <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 -
