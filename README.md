@@ -2,6 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/Luckyx128">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luckyx128&show_icons=true&hide=issues,stars&theme=dracula&include_all_commits=true"/>
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luckyx128&layout=compact&langs_count=7&theme=dracula&custom_title=Linguagens mais usadas" />
   </a>
 </div>
