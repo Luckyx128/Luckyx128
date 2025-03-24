@@ -14,7 +14,7 @@
 - 
     <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 -
-    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ember/ember-original.svg" />
+    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" />
 -    
     <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
 -
